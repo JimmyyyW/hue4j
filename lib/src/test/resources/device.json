@@ -1,0 +1,406 @@
+{
+  "errors": [],
+  "data": [
+    {
+      "id": "09a157b6-a874-4bfe-81ea-2164651d9bfd",
+      "id_v1": "/lights/6",
+      "product_data": {
+        "model_id": "BY 285 C",
+        "manufacturer_name": "innr",
+        "product_name": "Extended color light",
+        "product_archetype": "classic_bulb",
+        "certified": false,
+        "software_version": "2.1",
+        "hardware_platform_type": "1166-213"
+      },
+      "metadata": {
+        "name": "Office",
+        "archetype": "classic_bulb"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "fed3591f-1403-4bfb-afec-ec4b1883302e",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "1586a61f-219d-470c-aba4-bbece08e764b",
+          "rtype": "light"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "262e9d7d-5c86-4f50-bff3-fb886525dfb2",
+      "id_v1": "/lights/1",
+      "product_data": {
+        "model_id": "LCT015",
+        "manufacturer_name": "Signify Netherlands B.V.",
+        "product_name": "Hue color lamp",
+        "product_archetype": "sultan_bulb",
+        "certified": true,
+        "software_version": "1.108.7",
+        "hardware_platform_type": "100b-10c"
+      },
+      "metadata": {
+        "name": "Main bedroom",
+        "archetype": "sultan_bulb"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "835495ec-5669-4bef-96dc-01adf5b60c77",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "e9b44446-9da3-4410-89f1-7863c36072d2",
+          "rtype": "light"
+        },
+        {
+          "rid": "4d3c664e-50a2-48fc-a319-66f602c97ff1",
+          "rtype": "entertainment"
+        },
+        {
+          "rid": "bf260faf-db15-4b73-adba-ee346e48c60f",
+          "rtype": "taurus_7455"
+        },
+        {
+          "rid": "fe9a9f9a-43b2-4db6-9b99-800f3cc8aea8",
+          "rtype": "device_software_update"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "5ba2960d-2121-41a2-b331-c9d164e125e2",
+      "id_v1": "/lights/14",
+      "product_data": {
+        "model_id": "RB 285 C",
+        "manufacturer_name": "innr",
+        "product_name": "Extended color light",
+        "product_archetype": "classic_bulb",
+        "certified": false,
+        "software_version": "2.1",
+        "hardware_platform_type": "1166-113"
+      },
+      "metadata": {
+        "name": "Outside front door",
+        "archetype": "classic_bulb"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "0dbf4b3c-71ad-4fab-b8b8-793e81b4d944",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "37190871-8b3c-4270-ab47-0130aa93134c",
+          "rtype": "light"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "8d8ed338-9ce2-4221-9564-f20f3e95792b",
+      "id_v1": "/lights/16",
+      "product_data": {
+        "model_id": "LCE002",
+        "manufacturer_name": "Signify Netherlands B.V.",
+        "product_name": "Hue color candle",
+        "product_archetype": "candle_bulb",
+        "certified": true,
+        "software_version": "1.104.2",
+        "hardware_platform_type": "100b-114"
+      },
+      "metadata": {
+        "name": "Living 2",
+        "archetype": "wall_shade"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "f0e86f9c-7ced-4f9c-897b-b6dda403a8bf",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "b9c71a28-e02a-42b4-a6d8-7e3c9458bc8a",
+          "rtype": "light"
+        },
+        {
+          "rid": "e955b870-6cb0-41bf-9dad-07cf67653ed7",
+          "rtype": "entertainment"
+        },
+        {
+          "rid": "656d77bf-eee7-4c09-b559-cb222ba8834f",
+          "rtype": "taurus_7455"
+        },
+        {
+          "rid": "7e12fe49-68f6-45d7-b5c5-08c7c1d2b1d0",
+          "rtype": "device_software_update"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "93ef9860-ac06-4ddc-9a7e-328df25f08b5",
+      "id_v1": "/lights/15",
+      "product_data": {
+        "model_id": "LCE002",
+        "manufacturer_name": "Signify Netherlands B.V.",
+        "product_name": "Hue color candle",
+        "product_archetype": "candle_bulb",
+        "certified": true,
+        "software_version": "1.104.2",
+        "hardware_platform_type": "100b-114"
+      },
+      "metadata": {
+        "name": "Living 1",
+        "archetype": "wall_shade"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "2308014c-12f8-4b51-a475-8c210d3b636f",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "6f3e71d7-b2d8-41e2-a661-853c886fded2",
+          "rtype": "light"
+        },
+        {
+          "rid": "f34601d9-530b-4a0d-adc8-5ebe42d7c5ab",
+          "rtype": "entertainment"
+        },
+        {
+          "rid": "17dcf0e9-440a-478c-8d30-cf6b62fc0598",
+          "rtype": "taurus_7455"
+        },
+        {
+          "rid": "291b5f8b-0f97-48f0-9a63-a4c8ec97c404",
+          "rtype": "device_software_update"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "96190be4-317f-4f5a-b614-b042c4fbab7d",
+      "id_v1": "/lights/17",
+      "product_data": {
+        "model_id": "LCE002",
+        "manufacturer_name": "Signify Netherlands B.V.",
+        "product_name": "Hue color candle",
+        "product_archetype": "candle_bulb",
+        "certified": true,
+        "software_version": "1.104.2",
+        "hardware_platform_type": "100b-114"
+      },
+      "metadata": {
+        "name": "Living 3",
+        "archetype": "wall_shade"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "0b227f59-db31-49b0-9b3f-3700c4cc4b9a",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "82411e9d-bdf1-4205-b4c1-0df7090bce0b",
+          "rtype": "light"
+        },
+        {
+          "rid": "b47c5370-4288-4184-8b86-294cc54856f6",
+          "rtype": "entertainment"
+        },
+        {
+          "rid": "e6b587ee-9eed-425a-ab78-b1e93094cbc4",
+          "rtype": "taurus_7455"
+        },
+        {
+          "rid": "e6c8bed0-f32f-4b49-b117-c50b2c89eeed",
+          "rtype": "device_software_update"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "96eb3bd8-ddb7-4ce6-af44-232882bd5ab0",
+      "id_v1": "/lights/5",
+      "product_data": {
+        "model_id": "BY 285 C",
+        "manufacturer_name": "innr",
+        "product_name": "Extended color light",
+        "product_archetype": "classic_bulb",
+        "certified": false,
+        "software_version": "2.1",
+        "hardware_platform_type": "1166-213"
+      },
+      "metadata": {
+        "name": "Middle bathroom side",
+        "archetype": "classic_bulb"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "fd22f128-bc30-4148-8c01-759de8218088",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "7ec4319e-c3d9-4bdc-bffd-ba7093285da0",
+          "rtype": "light"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "a98a4e9d-aae7-4432-8725-4d494e8ba935",
+      "id_v1": "/lights/12",
+      "product_data": {
+        "model_id": "RB 285 C",
+        "manufacturer_name": "innr",
+        "product_name": "Extended color light",
+        "product_archetype": "classic_bulb",
+        "certified": false,
+        "software_version": "2.1"
+      },
+      "metadata": {
+        "name": "Outside garage",
+        "archetype": "classic_bulb"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "7e3f2ebc-1e58-434d-af2c-6101b4fd1020",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "3bb01ebe-3085-4309-9f3d-1e3cfe1c3c88",
+          "rtype": "light"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "abf57f0c-ac2b-43fa-8367-a1aaf720316d",
+      "id_v1": "/lights/13",
+      "product_data": {
+        "model_id": "BY 285 C",
+        "manufacturer_name": "innr",
+        "product_name": "Extended color light",
+        "product_archetype": "classic_bulb",
+        "certified": false,
+        "software_version": "2.1",
+        "hardware_platform_type": "1166-213"
+      },
+      "metadata": {
+        "name": "Driveway bedroom",
+        "archetype": "classic_bulb"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "61772c55-3da8-4573-982e-3f4615c3ae2c",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "1e602c79-7800-4639-9521-f6f4bc5ddd2f",
+          "rtype": "light"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "bc0d07f0-6425-472a-a35f-84e8076761c6",
+      "product_data": {
+        "model_id": "BSB002",
+        "manufacturer_name": "Signify Netherlands B.V.",
+        "product_name": "Hue Bridge",
+        "product_archetype": "bridge_v2",
+        "certified": true,
+        "software_version": "1.64.1964061010"
+      },
+      "metadata": {
+        "name": "Hue Bridge",
+        "archetype": "bridge_v2"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "7ce714d0-f225-4efc-9b5e-34c45df6053f",
+          "rtype": "bridge"
+        },
+        {
+          "rid": "da059c57-f3ce-469d-bccd-5dea9a4509fd",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "91312ed3-7a55-4156-a3de-cc14eb87e813",
+          "rtype": "entertainment"
+        },
+        {
+          "rid": "8f1d863a-f306-41d1-8644-d73007bf73aa",
+          "rtype": "zigbee_device_discovery"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "d06b0f0c-4716-494a-ab2b-b5c007272f30",
+      "id_v1": "/lights/11",
+      "product_data": {
+        "model_id": "BY 285 C",
+        "manufacturer_name": "innr",
+        "product_name": "Extended color light",
+        "product_archetype": "classic_bulb",
+        "certified": false,
+        "software_version": "2.1",
+        "hardware_platform_type": "1166-213"
+      },
+      "metadata": {
+        "name": "Landing",
+        "archetype": "classic_bulb"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "6ac4f637-f453-49ce-9065-97240cf4cce9",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "39fbf874-fe62-4d9f-bb8c-cbf672ccf020",
+          "rtype": "light"
+        }
+      ],
+      "type": "device"
+    },
+    {
+      "id": "ff9cb675-f124-44f9-8d88-9a99899fd13a",
+      "id_v1": "/lights/7",
+      "product_data": {
+        "model_id": "BY 285 C",
+        "manufacturer_name": "innr",
+        "product_name": "Extended color light",
+        "product_archetype": "classic_bulb",
+        "certified": false,
+        "software_version": "2.1",
+        "hardware_platform_type": "1166-213"
+      },
+      "metadata": {
+        "name": "iMac room",
+        "archetype": "classic_bulb"
+      },
+      "identify": {},
+      "services": [
+        {
+          "rid": "fecbe70f-de05-4965-8fa5-bc81a8574cdd",
+          "rtype": "zigbee_connectivity"
+        },
+        {
+          "rid": "ae6b9588-4041-40af-b57b-249f5bd381cb",
+          "rtype": "light"
+        }
+      ],
+      "type": "device"
+    }
+  ]
+}
