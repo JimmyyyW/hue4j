@@ -10,6 +10,13 @@ This project is in its infancy
 
 ***
 ### Sample Usage
+
+| Adjustment | Accepted Range                               | Extra info                                                 |
+|------------|----------------------------------------------|------------------------------------------------------------|
+| Brightness | 0.0 ... 100.0                                |                                                            |
+| Color      | x - 0.150 ... 0.690 <br/> y - 0.050 .. 0.690 | depends on gamut type - see https://viereck.ch/hue-xy-rgb/ |
+| On         | true / false                                 |                                                            |
+
 below is a short example of how to use use the library to 
 send updates to your bridge. For example - turning all on lights off.
 ```java
@@ -35,8 +42,8 @@ fun main() {
     val kitchLight: HueLight? = client.lights.find { it.name == "Kitchen"}
 
     val newColor = ColorXY().apply {
-            x = 4.50
-            y = 5.45
+            x = 0.50
+            y = 0.45
         }
     val brightness = Dimming(0.50)
 
